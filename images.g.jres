@@ -1,0 +1,52 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAADd3d3QDQDd3d0A0N0A0A3QAN3d3QDQAND//93QDQ3w3xHRDS0N3fvR8d8v3Q3Q+9HxHS/f0tD939EdIt/du73b27u7K90A293dGyIv3QDwHf0fLy/dAADf/R8vL90AAN/d8f8vDQAA0NDd8NANAAANANDd3QAAAAAAAADQAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetbind"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAACwuwAAAPD//w8LAADwHxERDwsAAP8R8R8PIgIA/xHxHy8iAgDw/xERIiLyAADwHxEiIgIA8P/xHyIi8gDwH/EfIiICAAAfEREvIgAAAP8f8S8iAAAAAPD/sCIAAAAAAACwAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetleft"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAALAAAAAAAAu7sAAAAAAAAACwAAAPD//w8rAADwHxERDyICAP8REREvIgIA/xHxHy8iAgDw//EfIiLyAADwHxEiIgIA8P8RESIi8gDwH/EfLyIyAAAf8R8vIgIAAP8f8Q8LAAAAAPD/AAsAAAAAAACwAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetright"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAALAAAAAAAAu7sAAAAAAAAACwAAAPD//w8LAADwHxERDyICAP8R8R8vIgIA/xHxHy8iAgDw/xERIiLyAADwHxEiIgIA8P8RESIi8gDwH/EfLyIyAAAf8R8vIgIAAP8f8Q8rAgAAAPD/AAsAAAAAAACwAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetidle"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAALAAAADw//8PCwsA8B8REQ8iAgD/EfEfLyICAP8R8R8vIgIA8P8RESIi8gAA8B8RIiICD/D/8R8iIgIA8B/xHy8iAjAAHxERLyLyAAD/H/EvIgIPAADw/wAiAgAAAAAAACsAAAAAAAAACwAAAAAAAAALAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetjumpleft"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALCwAAAAAAAAAAsAAAAAAAAACwAAAPD//w8iAgDwHxERLyICD/8REREvIvIA/xHxHy8iAgDw//EfIiICDwDwHxEiIvIA8P8RESIiAgDwH/EfLyICAAAf8R8PCwAAAP8f8Q8LAAAAAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetjumpright"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIgAAAPD//w8i8ADwHxERLyIPAP8REREvIg8A/xHxHy8iAADw//EfIiIAAADwHxEiIvAA8P8RESIiDwDwH/EfLyIPAAAf8R8PIgAAAP8f8Q8AAAAAAPD/AAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetdashright"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsAsAAPD//w+7AADwHxERD7ACAP8REREvuwIA/xERES8rAgDw/xERIivyAADwHxEiKwIA8P8RESIr8gDwHxERLysCAAAfEREvKwIAAP8f8b8LAgAAAPD/sAAAAAAAAAC7AAAAAAAAAAsAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetback"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD//w8AAADwHxERDwAAAP8R8R8PAAAA/xHxHy8iAADw/xERIiIAAADwHxEiIg8A8P/xHyIi8ADwH/EfLyIAAAAfEREvIg8AAP8f8Q8i8AAAAPD/ACIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hornetdash left"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
